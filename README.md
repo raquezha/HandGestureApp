@@ -4,4 +4,5 @@ This is not mine, I just import eaglesky ECLIPSE Project to Android Studio
 
 I've change the OpenCV version to 2.4.8 to 2.4.9
 
-link to original project: https://github.com/eaglesky/HandGestureApp
+Original Github Project: https://github.com/eaglesky/HandGestureApp
+Project Page: http://eaglesky.github.io/2015/12/26/HandGestureRecognition/
